@@ -1,0 +1,24 @@
+---
+title: "TNFi clinical trials on Vivli"
+author: "Abhijit Dasgupta"
+output: html_notebook
+---
+
+## Todo's from 2020-07-17 web call
+
+1. Run binary models for 24 week outcomes
+1. TJC is not available in YODA, so for external validation purposes, need to investigate the potential of BASDAI3 as a surrogate for TJC
+1. Develop a non-responder model, i.e. look at no response.
+    + develop at 12 weeks
+    + See if it extends well to 24 weeks
+    + Also develop 24 week model 
+    
+### Tables and Figures
+
++ **Table 1:** Classic table 1 with demographics
++ **Table 2:** Accuracy/AUC table across different models
++ **Figure 1:** Variable importance graphs
++ **Table 3:** Performance of reduced model across 12 and 24 weeks
++ **Figure 2:** Nomograms for reduced models
+
+
